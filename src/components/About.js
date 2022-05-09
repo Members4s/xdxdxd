@@ -4,7 +4,7 @@ import profile from '../assets/profile.png';
 const About = () => {
     return (
         <section className='about'>
-            <h2>About Me</h2>
+            <h2>About D</h2>
             <p>
                 Lorem ipsum dolor sit amet consectetur,
                 adipisicing elit. Neque, pariatur odio.
